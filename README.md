@@ -1,30 +1,32 @@
-1. Project Title
+1. Project Title-
    Data Quality and Completeness Report – Power BI
 
-3. Short Description
+3. Short Description-
    A Power BI dashboard designed to assess and improve the quality of product master data by tracking completeness, duplicates, and missing attributes across 2,000 records.
 
-5. Tool/Tech Used
+5. Tool/Tech Used-
    Power BI,
    Advanced Excel
 
-7. Data Source
+7. Data Source-
    CSV file
 
-9. Features/Highlights
-Data Quality Score: 87.39%
-Duplicate detection (449 entries)
-Missing field analysis (e.g., Price, Category, Origin Country)
-Completeness, Uniqueness, Validity metrics
-Interactive filters: SKU, Origin Country, Status, Category, Meter
-High-quality record benchmarks
+9. Features/Highlights-
+    Data Quality Score: 87.39%
+   Duplicate detection (449 entries)
+   Missing field analysis (e.g., Price, Category, Origin Country)
+   Completeness, Uniqueness, Validity metrics
+   Interactive filters: SKU, Origin Country, Status, Category, Meter
+   High-quality record benchmarks
 
-10. Business Problem
-Inconsistent and incomplete product data across systems was affecting reporting accuracy, operational efficiency, and downstream processes. The dashboard helps identify and prioritize data cleanup to improve reliability and governance.
+11. Business Problem-
+    Inconsistent and incomplete product data across systems was affecting reporting accuracy, operational efficiency, and downstream processes. The dashboard
+    helps identify and prioritize data cleanup to improve reliability and governance.
 
-11. Key Q&A
-Which attribute has the most missing values? → Price (170 entries)
-How many duplicate records exist? → 449
-What is the overall data quality score? → 87.39%
-Which products meet 100% quality standards? → Listed in benchmark table
-How can users filter and explore the data? → By SKU, category, country, status, and meteralue. Designed for data governance and analytics teams, this dashboard supports cleaner reporting, better decision-making, and improved operational efficiency.
+13. Key Q&A-
+    Which attribute has the most missing values? → Price (170 entries)
+    How many duplicate records exist? → 449
+    What is the overall data quality score? → 87.39%
+    Which products meet 100% quality standards? → Listed in benchmark table
+    How can users filter and explore the data? → By SKU, category, country, status, and meteralue. Designed for data governance and analytics teams, this
+    dashboard supports cleaner reporting, better decision-making, and improved operational efficiency.
