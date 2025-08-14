@@ -31,4 +31,4 @@
     How can users filter and explore the data? → By SKU, category, country, status, and meteralue. Designed for data governance and analytics teams, this
     dashboard supports cleaner reporting, better decision-making, and improved operational efficiency.
 
-14. Snap of Project - ![Dashboard Preview].[https://github.com/sohailbagwan7593-PowerBIDeveloper/Data-Quality-Report-Power-BI/blob/main/Data%20Quality%20and%20Completeness%20Report.png]
+14. Snap of Project - <img width="1303" height="735" alt="Image" src="https://github.com/user-attachments/assets/9c02e781-83aa-4f56-8fd9-f86e58ecc3df" />
