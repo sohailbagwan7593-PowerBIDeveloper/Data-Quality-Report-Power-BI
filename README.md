@@ -1,13 +1,30 @@
-# Data-Quality-Report-Power-BI
-Power BI dashboard analyzing 2,000 products for data quality. Tracks completeness, duplicates, and missing fields like price. Includes filters, quality scores, and detailed records to support data governance and cleanup.
-This Power BI dashboard analyzes 2,000 product records to assess master data quality across key dimensions. It delivers a clear snapshot of:
+1. Project Title
+Data Quality and Completeness Report – Power BI
 
+2. Short Description
+A Power BI dashboard designed to assess and improve the quality of product master data by tracking completeness, duplicates, and missing attributes across 2,000 records.
+
+3. Tool/Tech Used
+Power BI,
+Advanced Excel
+
+4. Data Source
+CSV file
+
+5. Features/Highlights
 Data Quality Score: 87.39%
+Duplicate detection (449 entries)
+Missing field analysis (e.g., Price, Category, Origin Country)
+Completeness, Uniqueness, Validity metrics
+Interactive filters: SKU, Origin Country, Status, Category, Meter
+High-quality record benchmarks
 
-Duplicate Count: 449
+6. Business Problem
+Inconsistent and incomplete product data across systems was affecting reporting accuracy, operational efficiency, and downstream processes. The dashboard helps identify and prioritize data cleanup to improve reliability and governance.
 
-Top Missing Attribute: Price (170 entries)
-
-The report highlights missing fields across attributes like Category, Origin Country, and Release Date, helping teams prioritize cleanup. It includes a quality summary showing completeness (86%), uniqueness (88%), and validity (89%), along with a table of high-quality records for benchmarking.
-
-Interactive filters allow users to explore data by SKU, origin country, product status, category, and meter value. Designed for data governance and analytics teams, this dashboard supports cleaner reporting, better decision-making, and improved operational efficiency.
+7. Key Q&A
+Which attribute has the most missing values? → Price (170 entries)
+How many duplicate records exist? → 449
+What is the overall data quality score? → 87.39%
+Which products meet 100% quality standards? → Listed in benchmark table
+How can users filter and explore the data? → By SKU, category, country, status, and meteralue. Designed for data governance and analytics teams, this dashboard supports cleaner reporting, better decision-making, and improved operational efficiency.
